@@ -1,5 +1,3 @@
-Certainly! Here’s a README file for your GitHub repository that explains the purpose, setup, and usage of your backup monitoring script:
-
 ---
 
 # Directory Backup Monitor
