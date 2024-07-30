@@ -30,7 +30,7 @@ pip install watchdog
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yugmint/Monitoring-System.git
    ```
 
 2. **Setup Paths**
